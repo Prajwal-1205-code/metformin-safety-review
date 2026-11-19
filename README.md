@@ -13,7 +13,7 @@ Acute kidney injury was second by count (318 reports, PRR 31.75). Kidney functio
 Euglycaemic diabetic ketoacidosis (77 reports, PRR 178.25) also flagged strongly. I did not check why. One possibility is that metformin is often taken with an SGLT2 inhibitor, and a combination product or co-reported drug could drive this. I would test it before saying anything about metformin itself.
 Reports with unknown age (230) or unknown sex are a large share of the file, so the age and sex charts are incomplete.
 Data
-Source: FDA Adverse Event Reporting System quarterly ASCII files, [2026 Q3]. Public data from the FDA website.
+Source: FDA Adverse Event Reporting System quarterly ASCII files, 2026 Q3. Public data from the FDA website.
 Files used: DEMO (patient), DRUG (drugs), REAC (reactions), OUTC (outcomes).
 The raw files are not in this repository because of their size. Download them from the FDA page and place them in data/raw/.
 Method
