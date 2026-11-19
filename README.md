@@ -1,6 +1,6 @@
 Metformin: one-drug safety review from FDA adverse event reports
 
-Dashboard
+![Dashboard](images/dashboard.png)
 
 I took one quarter of public FDA adverse event reports (FAERS), isolated the reports where metformin was the primary suspect drug, and asked which reactions are reported more often for metformin than for other drugs. The result is a MySQL database, an Excel results file and a one-page Power BI dashboard.
 
